@@ -56,6 +56,12 @@ English and German are included (`oxide/lang/en/LockCode.json`, `oxide/lang/de/L
   - Rich text tags in player names are stripped, long player lists are shortened
 - **1.0.1** – Initial version
 
+### Tested on RustRentner
+All ThornFox plugins are tested extensively on [rustrentner.de](https://rustrentner.de).
+
+### License
+MIT – see [LICENSE](LICENSE).
+
 ---
 
 ## Deutsch
@@ -98,3 +104,9 @@ Englisch und Deutsch sind enthalten.
   - Unterstützung für Codeschlösser an modularen Autos
   - Rich-Text-Tags in Spielernamen werden entfernt, lange Spielerlisten gekürzt
 - **1.0.1** – Erste Version
+
+### Getestet auf RustRentner
+Alle Plugins von ThornFox werden ausgiebig auf [rustrentner.de](https://rustrentner.de) getestet.
+
+### Lizenz
+MIT – siehe [LICENSE](LICENSE).
