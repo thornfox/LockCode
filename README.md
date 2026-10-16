@@ -9,6 +9,9 @@ Rust-Oxide/Carbon-Plugin, das Admins den Code, Gastcode und die berechtigten Spi
 
 ## English
 
+### Installation
+Copy `LockCode.cs` into `oxide/plugins/` or `carbon/plugins/`. The plugin loads automatically.
+
 ### Usage
 Look at a door, box, locker, tool cupboard, vehicle or directly at a lock and type:
 
@@ -65,6 +68,9 @@ MIT – see [LICENSE](LICENSE).
 ---
 
 ## Deutsch
+
+### Installation
+`LockCode.cs` nach `oxide/plugins/` bzw. `carbon/plugins/` kopieren. Das Plugin lädt automatisch.
 
 ### Benutzung
 Auf Tür, Kiste, Spind, Werkzeugschrank, Fahrzeug oder direkt auf das Schloss schauen und eingeben:
